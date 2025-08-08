@@ -134,8 +134,6 @@
   <dc:creator>Emmanuel Senecharles</dc:creator>
 </item>
 
-Bien sûr, voici le script RSS complet et regroupé sans séparation, prêt à être intégré dans votre flux :
-
 <item>
   <title>Montigny-le-Chartif : un incendie ravage la toiture d’une maison</title>
   <link>https://www.le28.tv/post/montigny-le-chartif-un-incendie-ravage-la-toiture-dune-maison-20250808</link>
@@ -145,20 +143,10 @@ Bien sûr, voici le script RSS complet et regroupé sans séparation, prêt à �
   <dc:creator>Emmanuel Senecharles</dc:creator>
   <media:content url="https://static.wixstatic.com/media/93c270_aacd57b47ad34b94a84f16fdc2ac2a8e~mv2.jpg" medium="image" />
   <category>Faits Divers</category>
-  <news:news>
-    <news:publication>
-      <news:name>Le28.tv</news:name>
-      <news:language>fr</news:language>
-    </news:publication>
-    <news:publication_date>2025-08-08T17:00:00+02:00</news:publication_date>
-    <news:title>Montigny-le-Chartif : un incendie ravage la toiture d’une maison</news:title>
-    <news:keywords>incendie, Montigny-le-Chartif, pompiers, feu de maison, rue d’Illiers, intoxication, évacuation, toiture, longère, feu de toiture, 2025</news:keywords>
-  </news:news>
 </item>
 
 
-       
-              
+                     
   </channel> 
 </rss> 
   
