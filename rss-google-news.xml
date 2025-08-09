@@ -2,7 +2,8 @@
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <channel>
     <title>Le28.tv</title>
     <link>https://www.le28.tv</link>
@@ -135,14 +136,26 @@
 </item>
 
 <item>
-  <title>Montigny-le-Chartif : un incendie ravage la toiture d’une maison</title>
-  <link>https://www.le28.tv/post/montigny-le-chartif-un-incendie-ravage-la-toiture-dune-maison-20250808</link>
-  <guid isPermaLink="true">https://www.le28.tv/post/montigny-le-chartif-un-incendie-ravage-la-toiture-dune-maison-20250808</guid>
-  <pubDate>Fri, 08 Aug 2025 17:00:00 +0200</pubDate>
-  <description>À Montigny-le-Chartif, ce vendredi vers 17 heures, un incendie a ravagé la toiture d’une maison ancienne rue d’Illiers. 46 pompiers sont intervenus pour maîtriser le feu.</description>
-  <dc:creator>Emmanuel Senecharles</dc:creator>
-  <media:content url="https://static.wixstatic.com/media/93c270_aacd57b47ad34b94a84f16fdc2ac2a8e~mv2.jpg" medium="image" />
-  <category>Faits Divers</category>
+    <title>Un incendie détruit une maison à Nogent-le-Rotrou, un bébé évacué</title>
+    <link>https://www.le28.tv/incendie-nogent-le-rotrou-2025</link>
+    <guid isPermaLink="true">https://www.le28.tv/incendie-nogent-le-rotrou-2025</guid>
+    <pubDate>Sat, 09 Aug 2025 17:45:00 +0200</pubDate>
+    <dc:creator>Emmanuel</dc:creator>
+    <description><![CDATA[Un feu a ravagé une habitation des années 60 à Nogent-le-Rotrou ce samedi après-midi, mobilisant 46 pompiers. Une rue a été coupée et plusieurs habitants évacués.]]></description>
+
+    <media:content url="https://www.le28.tv/images/incendie-nogent.jpg" medium="image" type="image/jpeg">
+        <media:description>Les pompiers à l'œuvre pour maîtriser le feu à Nogent-le-Rotrou</media:description>
+    </media:content>
+
+    <news:news>
+        <news:publication>
+            <news:name>Le28.tv</news:name>
+            <news:language>fr</news:language>
+        </news:publication>
+        <news:publication_date>2025-08-09T17:45:00+02:00</news:publication_date>
+        <news:title>Un incendie détruit une maison à Nogent-le-Rotrou, un bébé évacué</news:title>
+        <news:keywords>incendie Nogent-le-Rotrou, maison détruite, pompiers Eure-et-Loir, bébé évacué, actualité locale, feu d'habitation, intervention pompiers, Eure-et-Loir incendie</news:keywords>
+    </news:news>
 </item>
 
 
