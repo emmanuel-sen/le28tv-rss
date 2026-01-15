@@ -2,8 +2,7 @@
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Le28.tv</title>
     <link>https://www.le28.tv</link>
@@ -148,15 +147,7 @@
         <media:description>Les pompiers à l'œuvre pour maîtriser le feu à Nogent-le-Rotrou</media:description>
     </media:content>
 
-    <news:news>
-        <news:publication>
-            <news:name>Le28.tv</news:name>
-            <news:language>fr</news:language>
-        </news:publication>
-        <news:publication_date>2025-08-09T17:45:00+02:00</news:publication_date>
-        <news:title>Un incendie détruit une maison à Nogent-le-Rotrou, un bébé évacué</news:title>
-        <news:keywords>incendie Nogent-le-Rotrou, maison détruite, pompiers Eure-et-Loir, bébé évacué, actualité locale, feu d'habitation, intervention pompiers, Eure-et-Loir incendie</news:keywords>
-    </news:news>
+    
 </item>
 
 <item>
@@ -1306,8 +1297,8 @@
 
 <item>
   <title>« 300 euros pour tuer des animaux » : Stéphane Lamart fait appel de la decision du tribunal</title>
-  <link>https://www.le28.tv/post/300-euros-pour-tuer-des-animaux-stephane-lamart-fait-appel-de-la-décision-du-tribunal</link>
-  <guid isPermaLink="true">https://www.le28.tv/post/300-euros-pour-tuer-des-animaux-stephane-lamart-fait-appel-de-la-décision-du-tribunal</guid>
+  <link>https://www.le28.tv/post/300-euros-pour-tuer-des-animaux-stephane-lamart-fait-appel-de-la-decision-du-tribunal</link>
+  <guid isPermaLink="true">https://www.le28.tv/post/300-euros-pour-tuer-des-animaux-stephane-lamart-fait-appel-de-la-decision-du-tribunal</guid>
   <pubDate>Fri, 10 Oct 2025 18:34:00 +0200</pubDate>
   <description><![CDATA[
     <img src="https://static.wixstatic.com/media/93c270_131b6f4d9b8b4baa9e256f5e8f88a2df~mv2.jpeg" width="600" /><br/>
@@ -1481,7 +1472,7 @@
     <p>La première étape a consisté à évacuer les automobilistes bloqués à l’arrière de l’accident. Il a ensuite fallu <strong>transférer le contenu du poids lourd</strong> dans une autre citerne, acheminée spécialement sur les lieux. Ces opérations terminées, le périmètre de sécurité a pu être levé en direction de Paris, permettant la <strong>réouverture complète des trois voies</strong> vers la capitale depuis 21 h 15.</p>
     <p>En revanche, la circulation reste <strong>coupée dans le sens Paris vers Le Mans</strong>, le temps d’effectuer les dernières opérations de relevage du camion accidenté, puis des travaux de nettoyage de la chaussée. Une <strong>sortie obligatoire</strong> et une <strong>entrée interdite</strong> demeurent en place à <strong>La Ferté-Bernard (n°5)</strong>.</p>
     <p><em>Vidéo : les images de l’intervention sur l’A11 à La Ferté-Bernard</em><br/>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Vms5N7hmiKA" title="Accident A11 La Ferté-Bernard" frameborder="0" allowfullscreen></iframe></p>
+    </p>
     <p><em>Photo : les équipes de VINCI Autoroutes et les secours sont restés mobilisés toute la journée pour rétablir la circulation vers Paris.</em></p>
   ]]></description>
   <dc:creator>Emmanuel Senecharles</dc:creator>
@@ -1521,8 +1512,8 @@
 
 <item>
   <title>Cloyes-les-Trois-Rivières : quand le Loir retrouve son souffle</title>
-  <link>https://www.le28.tv/post/cloyes-les-trois-rivières-quand-le-loir-retrouve-son-souffle</link>
-  <guid isPermaLink="true">https://www.le28.tv/post/cloyes-les-trois-rivières-quand-le-loir-retrouve-son-souffle</guid>
+  <link>https://www.le28.tv/post/cloyes-les-trois-rivieres-quand-le-loir-retrouve-son-souffle</link>
+  <guid isPermaLink="true">https://www.le28.tv/post/cloyes-les-trois-rivieres-quand-le-loir-retrouve-son-souffle</guid>
   <pubDate>Fri, 24 Oct 2025 20:10:00 +0200</pubDate>
   <description><![CDATA[
     <img src="https://static.wixstatic.com/media/93c270_b30cf513b63044948194c60ff9707d5e~mv2.jpg" width="600" /><br/>
@@ -1576,8 +1567,8 @@
 
 <item>
   <title>Au Crédit Mutuel de Luisant, une “anomalie” fait disparaître 6 875 euros d’un compte pendant huit jours</title>
-  <link>https://www.le28.tv/post/au-credit-mutuel-de-luisant-une-anomalie-fait-disparaître-6875-euros-dun-compte-pendant-huit-jours</link>
-  <guid isPermaLink="true">https://www.le28.tv/post/au-credit-mutuel-de-luisant-une-anomalie-fait-disparaître-6875-euros-dun-compte-pendant-huit-jours</guid>
+  <link>https://www.le28.tv/post/au-credit-mutuel-de-luisant-une-anomalie-fait-disparaitre-6875-euros-dun-compte-pendant-huit-jours</link>
+  <guid isPermaLink="true">https://www.le28.tv/post/au-credit-mutuel-de-luisant-une-anomalie-fait-disparaitre-6875-euros-dun-compte-pendant-huit-jours</guid>
   <pubDate>Mon, 27 Oct 2025 23:20:00 +0200</pubDate>
   <description><![CDATA[
     <img src="https://static.wixstatic.com/media/93c270_1857622b1d234cfb8b42de21a012f283~mv2.jpg" width="600" /><br/>
@@ -1607,7 +1598,7 @@
     <a href="https://youtube.com/shorts/w4gd9lguwT4" target="_blank">https://youtube.com/shorts/w4gd9lguwT4</a></p>
     <p><em>Photo : Les agents de service hospitalier du centre hospitalier Victor-Jousselin à Dreux poursuivent leur mobilisation quotidienne.</em></p>
   ]]></description>
-  <enclosure url="https://youtube.com/shorts/w4gd9lguwT4" length="0" type="video/mp4" />
+  
   <dc:creator>Emmanuel Senecharles</dc:creator>
   <category>Dreux, hôpital, centre hospitalier Victor-Jousselin, ASH, produits d’entretien, hygiène, Force Ouvrière, Angélique Huet, Inès Aklouf, conditions de travail, mobilisation, grève, marché public, nettoyage, hôpital public, Centre-Val de Loire, Eure-et-Loir, agents hospitaliers, précarité, CDD, RTT, direction, entretien, personnel, femmes, santé, sécurité, FO, reportage, Le28.tv, Emmanuel Senecharles, vidéo</category>
 </item>
@@ -1681,7 +1672,7 @@
     <a href="https://youtube.com/shorts/sSalA0n-6PY" target="_blank">👉 Voir la vidéo</a></p>
     <p><em>Photo : À Tremblay-le-Village, Phénix Funéraire propose une dernière virée à moto pour les défunts avant leur ultime destination au cimetière.</em></p>
   ]]></description>
-  <enclosure url="https://youtube.com/shorts/sSalA0n-6PY" type="video/mp4" />
+  
   <dc:creator>Emmanuel Senecharles</dc:creator>
   <category>Eure-et-Loir, Tremblay-les-Villages, Phénix Funéraire, moto, side-car, transport funéraire, obsèques, motards, innovation, corbillard à moto, hommage, Mégane et Rudy, reportage local, Le28.tv, Toussaint, funéraire, Eure-et-Loir actualités, Centre-Val de Loire, service funéraire, dernière virée, passion motarde, concept atypique</category>
 </item>
