@@ -2756,7 +2756,28 @@ Retransmission : site de la Ville et chaîne YouTube officielle</p>
 <dc:creator>Emmanuel Senecharles</dc:creator>
 <category>Eure-et-Loir, Châteaudun, château de Châteaudun, fête médiévale, Jean de Dunois, Centre des monuments nationaux, patrimoine, tourisme, Centre-Val de Loire, Le28.tv</category>
 </item>
-       
+
+Voici ton item RSS formaté selon ton modèle :
+
+```xml
+<item>
+<title>Ce qu'il faut retenir du premier discours de Ladislas Vergne, nouveau maire de Chartres</title>
+<link>https://www.le28.tv/post/ce-qu-il-faut-retenir-du-premier-discours-de-ladislas-vergne-nouveau-maire-de-chartres</link>
+<guid isPermaLink="true">https://www.le28.tv/post/ce-qu-il-faut-retenir-du-premier-discours-de-ladislas-vergne-nouveau-maire-de-chartres</guid>
+<pubDate>Sun, 29 Mar 2026 11:15:00 +0200</pubDate>
+<description><![CDATA[
+<img src="https://static.wixstatic.com/media/93c270_ab9e9566e3964b54b015e3d4cf23b080~mv2.jpg" width="600" /><br/>
+<p><strong>Élu officiellement maire de Chartres, Ladislas Vergne a prononcé un premier discours marqué par l’émotion et des priorités claires pour son mandat.</strong></p>
+<p>C’est avec une « immense émotion » que Ladislas Vergne a revêtu l’écharpe tricolore ce samedi 28 mars, dans l’hémicycle d’Autricum. Devant un conseil municipal renouvelé, le nouveau maire a rendu hommage à ses prédécesseurs, saluant notamment Jean-Pierre Gorges, « maire bâtisseur ».</p>
+<p>Parmi les priorités affichées, la santé arrive en tête. L’édile a fait de la lutte contre la désertification médicale un « chantier prioritaire », affirmant que chaque Chartrain doit pouvoir disposer d’un médecin traitant. Il souhaite également renforcer la proximité avec les quartiers, avec un projet spécifique pour chacun d’eux.</p>
+<p>Le centre-ville et la jeunesse figurent aussi au cœur de ses ambitions. Ladislas Vergne entend lutter contre la désertification commerciale et redonner de l’attractivité à la ville, notamment pour inciter les jeunes à y rester après leurs études.</p>
+<p>Enfin, le nouveau maire a tendu la main à l’agglomération et à l’opposition, appelant à un travail collectif pour construire une ville « plus forte, plus juste et plus belle ».</p>
+<p><em>Photo : Ladislas Vergne lors de son premier discours en tant que maire de Chartres, dans l’hémicycle d’Autricum.</em></p>
+]]></description>
+<dc:creator>Emmanuel Senecharles</dc:creator>
+<category>Eure-et-Loir, Chartres, Ladislas Vergne, maire de Chartres, conseil municipal, politique locale, santé, désertification médicale, centre-ville, jeunesse, Chartres Métropole, Centre-Val de Loire, Le28.tv</category>
+</item>
+
 </channel> 
 </rss> 
   
