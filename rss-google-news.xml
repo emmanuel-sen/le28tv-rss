@@ -2757,9 +2757,6 @@ Retransmission : site de la Ville et chaîne YouTube officielle</p>
 <category>Eure-et-Loir, Châteaudun, château de Châteaudun, fête médiévale, Jean de Dunois, Centre des monuments nationaux, patrimoine, tourisme, Centre-Val de Loire, Le28.tv</category>
 </item>
 
-Voici ton item RSS formaté selon ton modèle :
-
-```xml
 <item>
 <title>Ce qu'il faut retenir du premier discours de Ladislas Vergne, nouveau maire de Chartres</title>
 <link>https://www.le28.tv/post/ce-qu-il-faut-retenir-du-premier-discours-de-ladislas-vergne-nouveau-maire-de-chartres</link>
@@ -2776,6 +2773,42 @@ Voici ton item RSS formaté selon ton modèle :
 ]]></description>
 <dc:creator>Emmanuel Senecharles</dc:creator>
 <category>Eure-et-Loir, Chartres, Ladislas Vergne, maire de Chartres, conseil municipal, politique locale, santé, désertification médicale, centre-ville, jeunesse, Chartres Métropole, Centre-Val de Loire, Le28.tv</category>
+</item> 
+
+<item>
+<title>Ce qu'il faut retenir du premier discours de Ladislas Vergne, nouveau maire de Chartres</title>
+<link>https://www.le28.tv/post/ce-qu-il-faut-retenir-du-premier-discours-de-ladislas-vergne-nouveau-maire-de-chartres</link>
+<guid isPermaLink="true">https://www.le28.tv/post/ce-qu-il-faut-retenir-du-premier-discours-de-ladislas-vergne-nouveau-maire-de-chartres</guid>
+<pubDate>Sun, 29 Mar 2026 11:15:00 +0200</pubDate>
+<description><![CDATA[
+<img src="https://static.wixstatic.com/media/93c270_ab9e9566e3964b54b015e3d4cf23b080~mv2.jpg" width="600" /><br/>
+<p><strong>Élu officiellement maire de Chartres, Ladislas Vergne a prononcé un premier discours marqué par l’émotion et des priorités claires pour son mandat.</strong></p>
+<p>C’est avec une « immense émotion » que Ladislas Vergne a revêtu l’écharpe tricolore ce samedi 28 mars, dans l’hémicycle d’Autricum. Devant un conseil municipal renouvelé, le nouveau maire a rendu hommage à ses prédécesseurs, saluant notamment Jean-Pierre Gorges, « maire bâtisseur ».</p>
+<p>Parmi les priorités affichées, la santé arrive en tête. L’édile a fait de la lutte contre la désertification médicale un « chantier prioritaire », affirmant que chaque Chartrain doit pouvoir disposer d’un médecin traitant. Il souhaite également renforcer la proximité avec les quartiers, avec un projet spécifique pour chacun d’eux.</p>
+<p>Le centre-ville et la jeunesse figurent aussi au cœur de ses ambitions. Ladislas Vergne entend lutter contre la désertification commerciale et redonner de l’attractivité à la ville, notamment pour inciter les jeunes à y rester après leurs études.</p>
+<p>Enfin, le nouveau maire a tendu la main à l’agglomération et à l’opposition, appelant à un travail collectif pour construire une ville « plus forte, plus juste et plus belle ».</p>
+<p><em>Photo : Ladislas Vergne lors de son premier discours en tant que maire de Chartres, dans l’hémicycle d’Autricum.</em></p>
+]]></description>
+<dc:creator>Emmanuel Senecharles</dc:creator>
+<category>Eure-et-Loir, Chartres, Ladislas Vergne, maire de Chartres, conseil municipal, politique locale, santé, désertification médicale, centre-ville, jeunesse, Chartres Métropole, Centre-Val de Loire, Le28.tv</category>
+</item> 
+
+<item>
+<title>Jean-Pierre Gorges : « Dès le premier tour, j’avais compris que c’était perdu »</title>
+<link>https://www.le28.tv/post/jean-pierre-gorges-des-le-premier-tour-j-avais-compris-que-c-etait-perdu</link>
+<guid isPermaLink="true">https://www.le28.tv/post/jean-pierre-gorges-des-le-premier-tour-j-avais-compris-que-c-etait-perdu</guid>
+<pubDate>Mon, 30 Mar 2026 23:14:00 +0200</pubDate>
+<description><![CDATA[
+<img src="https://static.wixstatic.com/media/93c270_739c1a42c40143649afb4ef139cebd73~mv2.jpg" width="600" /><br/>
+<p><strong>Pour sa première apparition depuis sa défaite, Jean-Pierre Gorges affiche une sérénité déroutante et livre une analyse sans détour de la situation politique chartraine.</strong></p>
+<p>Samedi matin, dans l’hémicycle d’Autricum, l’ancien maire de Chartres a pris place pour la première fois sur les bancs de l’opposition. Un changement de perspective radical pour celui qui a dirigé la ville pendant 25 ans. « Je traverse l’écran », confie-t-il, évoquant sa nouvelle posture d’observateur attentif.</p>
+<p>À 72 ans, Jean-Pierre Gorges ne compte pas jouer les opposants virulents. Il revendique une stratégie basée sur la prise de recul, préférant surveiller les grandes orientations plutôt que s’immiscer dans les détails. Selon lui, l’issue du scrutin ne faisait aucun doute dès le premier tour, en raison des reports de voix défavorables.</p>
+<p>Mais derrière cette apparente sérénité, l’ancien édile exprime des inquiétudes sur l’avenir de la ville. Il redoute notamment un « détricotage » de certains projets structurants, évoquant le devenir du Colisée, l’attractivité économique et la gestion des finances locales.</p>
+<p>Désormais tourné vers sa vie personnelle, il écarte toute revanche politique et envisage de mettre son expérience au service de nouveaux projets, notamment comme consultant.</p>
+<p><em>Photo : Jean-Pierre Gorges lors de sa première apparition dans l’opposition au conseil municipal de Chartres.</em></p>
+]]></description>
+<dc:creator>Emmanuel Senecharles</dc:creator>
+<category>Eure-et-Loir, Chartres, Jean-Pierre Gorges, politique locale, conseil municipal, opposition, municipales 2026, Ladislas Vergne, Colisée, finances locales, Centre-Val de Loire, Le28.tv</category>
 </item>
 
 </channel> 
