@@ -9,7 +9,7 @@
     <description>Actualités locales en Eure-et-Loir</description>
     <language>fr-fr</language>
     <atom:link href="https://rss.le28.tv/rss-google-news.xml" rel="self" type="application/rss+xml" />
-<item>
+<item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <title>Dreux : Le rapport au vitriol de la Chambre régionale des comptes sur la gestion Billet</title>
   <link>https://www.le28.tv/post/dreux-le-rapport-au-vitriol-de-la-chambre-regionale-des-comptes-sur-la-gestion-billet</link>
   <guid isPermaLink="true">https://www.le28.tv/post/dreux-le-rapport-au-vitriol-de-la-chambre-regionale-des-comptes-sur-la-gestion-billet</guid>
